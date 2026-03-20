@@ -1,2 +1,3 @@
-# nova-fitness-tracker-ky7k
+# Nova Fitness Tracker Ky7K
+
 A fitness and workout tracker for modern development workflows.
